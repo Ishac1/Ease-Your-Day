@@ -1,2 +1,3 @@
 # Ease Your Day
 An application that allows you to keep track of your tasks, upcoming deadlines, reminders and upcoming events! Helps an individual stay organized, productive and up to date. The website allows you to add tasks with a specific date and time. It further lets you set a reminder. If a task is completed, you can remove the reminder or delete tasks. If a change to a task needs to occur, the application allows you to make changes to a task. With this, you feel an ease in your day!
+![Screen Shot 2021-12-30 at 12 47 46 AM](https://user-images.githubusercontent.com/71185361/147904609-2da8cb8a-4503-4640-9533-c17a12c59f64.png)
